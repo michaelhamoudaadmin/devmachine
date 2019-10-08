@@ -1,0 +1,7 @@
+alias 'tf=\'terraform\''
+alias 'tfa=\'terraform destroy -force \''
+alias 'tf=\'terraform\''
+alias 'tfa=\'terraform destroy -force \''
+alias 'tf=\'terraform\''
+alias 'tfa=\'terraform destroy -force \''
+alias 'tf=\'terraform\''
