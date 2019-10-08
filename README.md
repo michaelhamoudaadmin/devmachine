@@ -1,3 +1,4 @@
+```bash
 yum update -y && \
 apt-get update -y && \
 apt-get install git -y && \
@@ -7,3 +8,4 @@ cd code && \
 git clone https://github.com/michaelhamoudaadmin/devmachine && \
 cd devmachine/ && \
 bash install.sh
+```
