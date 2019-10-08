@@ -17,5 +17,6 @@ echo "alias r='ruby'" >> ~/.bash_profile
 echo "alias sbp='source ~/.bash_profile'" >> ~/.bash_profile
 echo "alias ebp='vim ~/.bash_profile'" >> ~/.bash_profile
 echo "alias cbp='cat ~/.bash_profile'" >> ~/.bash_profile
+echo "alias editor=vim" >> ~/.bash_profile
 
 source ~/.bash_profile
